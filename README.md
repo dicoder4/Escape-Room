@@ -84,7 +84,7 @@ escape/
 - If the maze/player feels laggy, tweak `CustomPainter.shouldRepaint` to listen for state changes.
 - No secrets in the repo, please! For big files, use Git LFS.
 
-_License: add one if you’re publishing this for the world to play._
+
 
 ---
 
